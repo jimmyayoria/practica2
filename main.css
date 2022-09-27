@@ -1,0 +1,42 @@
+button {
+    background-color: rgba(122, 122, 206, 0);
+    color: rgb(255, 255, 255);   
+    border-radius: 20px;
+    border-color: rgb(255, 255, 255);
+    height: 70px;
+    width: 150px;
+    margin-top: 0%;
+    margin-left: 66%;
+}
+
+body {
+    background: url(https://ca.aceaperu.com/wp-content/uploads/2022/09/fondo_cyber-scaled.jpg);
+    background-size: 100%;
+
+
+
+}
+
+.btn-center {
+    text-align: right;
+}
+
+.font-color {
+    color: rgb(255, 255, 255);
+    align-content: center;
+    margin-top: 19%;
+    margin-left: 40%;
+    font-family: 'Roboto';
+}
+
+.fuente-titulo {
+font-family: 'Roboto';
+}
+
+.fuente-nombre {
+    font-family: 'Roboto';
+    color: rgb(228, 204, 69);
+    align-content: center;
+    margin-top: 2%;
+    margin-left: 63%;
+}
